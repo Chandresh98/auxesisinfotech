@@ -1,0 +1,220 @@
+@media(max-width:1920px){
+    .service-plans-section.section-padding {
+        padding: 254px 0px;
+    }
+}
+
+@media(max-width:1600px){
+    .vector-img {
+        bottom: -17px;
+        left: -16px;
+    }
+    .service-plans-section.section-padding {
+        padding: 170px 0px!important;
+    }
+}
+
+@media(max-width:1199px){
+    .timeline_plans-outer {
+        width: 84%;
+    }
+    .footer-right ul li a, .footer-left p {
+        color: #FFFFFF;
+        font-size: 15px;
+        margin-bottom: 10px;
+    }
+    .home-banner-left h1 {
+        font-size: 40px;
+        font-weight: 600;
+        line-height: 50px;
+    }
+    .subscription-section .col-lg-4 {
+        padding: 0px 20px;
+    }
+    .plans-left .nav-tabs .nav-item {
+        margin: 0px 15px 0px 0px;
+    }
+}
+
+@media(max-width:991px){
+    .timeline_plans-outer {
+        width: 100%;
+    }
+    .navbar-toggler {
+        border: 1px solid #333333;
+    }
+    div#navbarSupportedContent {
+        padding: 20px;
+        background: #ffffff;
+        border-radius: 5px;
+    }
+    li.nav-item {
+        margin-bottom: 8px;
+        padding-bottom: 8px;
+        border-bottom: 1px dashed #ccc;
+    }
+    .timeline-conent {
+        padding: 40px 0px;
+    }
+    .question-img {
+        margin-top: 40px;
+    }
+    .footer {
+        padding: 50px 0px 25px 0px!important;
+    }
+    .body-inner {
+        margin-bottom: 500px!important;
+    }
+    .footer-logo {
+        margin-bottom: 20px!important;
+    }
+    .footer-left {
+        margin-bottom: 40px!important;
+    }
+    .footer .col-lg-7{
+        padding: 0px!important;
+    }
+    .footer .col-lg-5{
+        padding: 0px 15px!important;
+    }
+    .section-padding {
+        padding: 60px 0px;
+    }
+    .timeline-banner-inner .col-lg-6{
+        padding: 0px;
+    }
+    .navbar-toggler-icon{
+        position: relative;
+    }
+    
+    .navbar-toggler-icon::after{
+        content: "☰";
+        font-size: 26px;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .home-banner-right {
+        justify-content: center;
+    }
+    .home-banner-right img {
+        position: unset;
+    }
+    .home-banner-left {
+        padding: 100px 0px 95px;
+    }
+    .subscription-section .col-lg-4 {
+        padding: 0px 135px;
+        margin-bottom: 90px;
+    }
+    .subscription-section .col-lg-4:last-child{
+        margin-bottom: 0px;
+    }
+    .plans-left .nav-tabs .nav-link {
+        width: fit-content;
+    }
+    .testimonial-slider {
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}
+
+@media(max-width:767px){
+    .footer {
+        position: unset!important;
+    }
+    .body-inner {
+        margin-bottom: 0px!important;
+    }
+    .copyright {
+        margin-top: 20px;
+    }
+    .footer h3 {
+        font-size: 18px;
+    }
+    .footer-right ul li a, .footer-left p {
+        font-size: 14px;
+        margin-bottom: 10px;
+    }
+    .timeline-conent h1 {
+        font-size: 35px;
+    }
+    .timeline-banner-section .vector-img {
+        height: 265px;
+    }
+    .timeline-banner-section .vector-img img {
+        object-fit: cover;
+    }
+    .plans-right.text-right {
+        margin-top: 40px;
+    }
+}
+
+@media(max-width:575px){
+    .footer-col {
+        margin-bottom: 35px;
+    }
+    .copyright {
+        margin-top: 0px;
+    }
+    .section-padding {
+        padding: 40px 0px;
+    }
+    .common-button2 {
+        padding: 8px 30px;
+    }
+    .questions-content.pt-5 {
+        padding-top: 0px!important;
+    }
+    .main-heading {
+        font-size: 30px;
+    }
+    .timeline-banner-section .vector-img {
+        height: 335px;
+    }
+    .timeline-step {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+    .timeline-step::before, .timeline-step::after{
+        display: none;
+    }
+    
+}
+
+@media(max-width:480px){
+    .questions .common-button2 {
+        margin-right: 10px!important;
+        font-size: 14px;
+        padding: 8px 20px;
+    }
+    .timeline-conent h1 {
+        font-size: 25px;
+    }
+    .navbar-toggler-icon::after {
+        font-size: 20px;
+    }
+    span.navbar-toggler-icon {
+        font-size: 14px;
+    }
+}
+
+@media(max-width:375px){
+    .questions-content .d-flex {
+        display: block!important;
+    }
+    .questions .common-button2 {
+        margin-right: 0px!important;
+        margin-bottom: 10px;
+    }
+    .timeline-conent {
+        padding: 30px 0px;
+    }
+}
+
+@media(max-width:340px){
+    .timeline-conent p {
+        font-size: 14px;
+    }
+}

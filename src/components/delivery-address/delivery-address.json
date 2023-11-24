@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_delivery_address_delivery_addresses",
+  "info": {
+    "displayName": "delivery_address"
+  },
+  "options": {},
+  "attributes": {
+    "Address": {
+      "type": "text"
+    },
+    "ZIP_Code": {
+      "type": "string"
+    },
+    "Country": {
+      "type": "string"
+    }
+  }
+}

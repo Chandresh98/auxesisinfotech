@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_accessories_product_accessories",
+  "info": {
+    "displayName": "Product_Accessories",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Price": {
+      "type": "integer"
+    },
+    "Name": {
+      "type": "string"
+    }
+  }
+}
