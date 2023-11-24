@@ -14,7 +14,7 @@ import axios from 'axios';
 const HomePage = () => {
   const handleButtonClick = async () => {
     const responseCategory = await axios.get(
-      "http://localhost:1337/api/fetch-products",
+      `https://wiflyadmin.auxesisdevelopment.com/api/fetch-products`,
     );
 
     return console.log(responseCategory.data)
@@ -22,7 +22,7 @@ const HomePage = () => {
 
   const handleButtonClick2 = async () => {
     const responseCategory = await axios.get(
-      "http://localhost:1337/api/uploadimages",
+      "https://wiflyadmin.auxesisdevelopment.com/api/uploadimages",
     );
 
     return console.log(responseCategory.data)
